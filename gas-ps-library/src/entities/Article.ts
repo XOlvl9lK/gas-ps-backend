@@ -1,0 +1,26 @@
+import {
+  Column,
+  Entity,
+  ManyToOne,
+  PrimaryGeneratedColumn, RelationId,
+} from 'typeorm';
+import { BaseEntity } from './BaseEntity'
+import { Chapter } from './Chapter';
+
+@Entity()
+export class Article extends BaseEntity {
+  @PrimaryGeneratedColumn()
+  id: number;
+
+  @Column({ type: 'text', nullable: false })
+  title: string;
+
+  @Column({ type: 'text', nullable: true })
+  content: string;
+
+  @ManyToOne(() => Chapter)
+  chapter: Chapter
+
+  @RelationId((article: Article) => article.chapter)
+  chapterId: number
+}
