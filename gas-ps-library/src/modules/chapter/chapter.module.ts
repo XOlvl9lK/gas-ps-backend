@@ -9,6 +9,7 @@ import { Chapter } from '../../entities/Chapter';
   providers: [ChapterService],
   imports: [
     TypeOrmModule.forFeature([Chapter])
-  ]
+  ],
+  exports: [ChapterService]
 })
 export class ChapterModule {}

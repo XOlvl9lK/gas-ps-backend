@@ -18,7 +18,7 @@ export class ArticleService {
   }
 
   @AsyncTryCatch(ArticleService.name)
-  async getAll(search: string) {
+  async getAll(search?: string) {
 
     return await this.articleRepository.find({
       where: search ? [

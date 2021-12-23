@@ -5,6 +5,7 @@ import { ChapterModule } from './modules/chapter/chapter.module';
 import { ArticleModule } from './modules/article/article.module';
 import { Article } from './entities/Article';
 import { Chapter } from './entities/Chapter';
+import { NodesModule } from './modules/nodes/nodes.module';
 
 @Module({
   imports: [
@@ -21,6 +22,7 @@ import { Chapter } from './entities/Chapter';
     }),
     ChapterModule,
     ArticleModule,
+    NodesModule,
   ],
   controllers: [],
   providers: [],
