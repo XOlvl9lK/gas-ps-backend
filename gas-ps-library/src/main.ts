@@ -6,10 +6,15 @@ import { ValidationPipe } from './pipes/validation.pipe';
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
+  app.enableCors({
+    origin: true,
+    methods: 'GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS',
+    credentials: true,
+  });
   app.useGlobalFilters(new ExceptionsFilter())
   app.useGlobalPipes(new ValidationPipe())
-  await app.listen(3000, () => {
-    LoggerService.log('Server started on port 3000', 'NEST')
+  await app.listen(3001, () => {
+    LoggerService.log('Server started on port 3001', 'NEST')
   });
 }
 bootstrap();

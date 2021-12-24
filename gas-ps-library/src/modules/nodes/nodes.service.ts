@@ -19,7 +19,7 @@ export class NodesService {
   async getAll() {
     const [chapters, articles] = await Promise.all([
       this.chapterRepository.find({ select: ['id', 'title', 'parentId'] }),
-      this.articleRepository.find({ select: ['id', 'title', 'chapterId'] })
+      this.articleRepository.find({ select: ['id', 'title', 'chapterId' ] })
     ])
 
     return [...chapters, ...articles].map(node => new NodesDto(node))

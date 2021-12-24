@@ -1,6 +1,6 @@
 import {
   Column,
-  Entity,
+  Entity, JoinColumn,
   ManyToOne,
   PrimaryGeneratedColumn, RelationId,
 } from 'typeorm';
@@ -19,8 +19,9 @@ export class Article extends BaseEntity {
   content: string;
 
   @ManyToOne(() => Chapter)
+  @JoinColumn({ name: 'chapterId' })
   chapter: Chapter
 
-  @RelationId((article: Article) => article.chapter)
+  @Column({ type: 'int', nullable: true })
   chapterId: number
 }
