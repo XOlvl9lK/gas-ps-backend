@@ -1,0 +1,45 @@
+
+LOG   - LIBRARY - Wed Dec 29 2021 13:34:05 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+ERROR - LIBRARY - Wed Dec 29 2021 13:39:23 GMT+0400 (GMT+04:00) - [TicketService->getAll]: Internal server error - EntityColumnNotFound: No entity column "0" was found.
+ERROR - LIBRARY - Wed Dec 29 2021 13:40:13 GMT+0400 (GMT+04:00) - [TicketService->getAll]: Internal server error - EntityColumnNotFound: No entity column "0" was found.
+LOG   - LIBRARY - Wed Dec 29 2021 13:42:44 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+ERROR - LIBRARY - Wed Dec 29 2021 13:42:52 GMT+0400 (GMT+04:00) - [TicketService->getAll]: Internal server error - EntityColumnNotFound: No entity column "0" was found.
+LOG   - LIBRARY - Wed Dec 29 2021 13:46:07 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Wed Dec 29 2021 13:46:18 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Wed Dec 29 2021 13:50:09 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Wed Dec 29 2021 16:26:19 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 10:19:43 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 10:40:00 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 10:41:49 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 10:42:13 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 10:51:07 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 10:56:27 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:01:01 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:04:42 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:07:33 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:08:42 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:14:16 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:14:26 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:17:08 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:40:50 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:46:22 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:46:38 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:46:45 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:49:07 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:49:30 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:49:46 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:50:03 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:50:12 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:50:29 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:50:48 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:51:19 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:51:59 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:52:29 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+ERROR - LIBRARY - Thu Dec 30 2021 11:52:51 GMT+0400 (GMT+04:00) - [TicketService->deleteAll]: Internal server error - TypeORMError: Empty criteria(s) are not allowed for the delete method.
+LOG   - LIBRARY - Thu Dec 30 2021 11:53:26 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:56:11 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 11:57:57 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 12:00:10 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 12:01:27 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 12:07:17 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001
+LOG   - LIBRARY - Thu Dec 30 2021 14:44:55 GMT+0400 (GMT+04:00) - [NEST]: Server started on port 3001

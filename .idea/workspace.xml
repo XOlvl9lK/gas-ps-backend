@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d68f3fb1-cd9e-44c6-ae51-36ae629e68b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/gas-ps-library/src/middlewares/logger.middleware.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gas-ps-service-desk/src/common/decorators/asyncTryCatch.decorator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gas-ps-service-desk/src/common/decorators/tryCatch.decorator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gas-ps-service-desk/src/common/helpers/diskStorage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gas-ps-service-desk/src/entities/BaseEntity.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gas-ps-service-desk/src/entities/Ticket.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gas-ps-service-desk/src/exceptions/exception.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gas-ps-service-desk/src/exceptions/exceptions.filter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gas-ps-service-desk/src/logger/logger.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gas-ps-service-desk/src/logger/logger.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gas-ps-service-desk/src/logger/logger.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gas-ps-service-desk/src/middlewares/logger.middleware.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gas-ps-service-desk/src/modules/ticket/ticket.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gas-ps-service-desk/src/modules/ticket/ticket.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gas-ps-service-desk/src/modules/ticket/ticket.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gas-ps-service-desk/src/modules/ticket/ticket.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gas-ps-service-desk/src/pipes/validation.pipe.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas-ps-library/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gas-ps-library/src/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas-ps-library/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gas-ps-library/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas-ps-library/src/modules/article/article.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gas-ps-library/src/modules/article/article.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas-ps-library/src/pipes/validation.pipe.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gas-ps-library/src/pipes/validation.pipe.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas-ps-portal/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/gas-ps-portal/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas-ps-service-desk/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/gas-ps-service-desk/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas-ps-service-desk/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/gas-ps-service-desk/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas-ps-service-desk/src/app.controller.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas-ps-service-desk/src/app.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas-ps-service-desk/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gas-ps-service-desk/src/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas-ps-service-desk/src/app.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas-ps-service-desk/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gas-ps-service-desk/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas-ps-service-desk/test/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas-ps-service-desk/test/jest-e2e.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23Unt0brz1KFlunArPhY4MHabFs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d68f3fb1-cd9e-44c6-ae51-36ae629e68b9" name="Changes" comment="" />
+      <created>1641797745894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641797745894</updated>
+      <workItem from="1641797747824" duration="171000" />
+      <workItem from="1641797953809" duration="972000" />
+      <workItem from="1641811419121" duration="173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
